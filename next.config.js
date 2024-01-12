@@ -5,7 +5,7 @@ const nextConfig = {
         domains:["res.cloudinary.com","res-console.cloudinary.com"]
         },
         env:{
-        URL : "http://localhost:3000"
+        URL : "https://gestion-biblio.vercel.app/"
         }
 
 }
